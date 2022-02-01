@@ -1,0 +1,8 @@
+# Blogger Sitemap created on Wed, 29 Sep 2021 15:43:30 GMT
+# Sitemap built with https://www.labnol.org/blogger/sitemap
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://sabbir228.blogspot.com/atom.xml?redirect=false&start-index=1&max-results=500
